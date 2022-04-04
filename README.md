@@ -46,12 +46,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 <br>
 
 ## Screenshots
-![Webpage](../assets/Webpage.JPG)
+![Webpage](public/assets/images/homepage.JPG
+)
 ## Working Code
-
-![Test](../assets/tests.gif)
-![Demo](../assets/Demo.gif)
-![html](../assets/html file.gif)
 
 
 ## Contributing

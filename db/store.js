@@ -1,8 +1,6 @@
 const util = require('util');
 const fs = require('fs');
-
-
-const uuidv1 = require('uuid/v1');
+const uuid = require('uuid/v1');
 
 const readFromFile = util.promisify(fs.readFile);
 const writeToFile = util.promisify(fs.writeFile);
